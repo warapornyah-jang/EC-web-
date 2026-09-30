@@ -1,0 +1,6 @@
+{
+  "name": "ระบบคณะกรรมการจริยธรรมการวิจัยในคน มหาวิทยาลัยนวมินทราธิราช",
+  "description": "ระบบสารสนเทศและการยื่นคำขอรับการพิจารณาจริยธรรมการวิจัยในคน สำนักงานอธิการบดี มหาวิทยาลัยนวมินทราธิราช (NMU-IRB)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
